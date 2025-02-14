@@ -1,7 +1,7 @@
 # Projeto: Sorteio de Amigo Secreto
 
 ## Descrição
-Este é um projeto simples em JavaScript que permite adicionar nomes a uma lista e realizar um sorteio para definir um "amigo secreto" aleatoriamente. Após o sorteio, a lista de amigos é limpa automaticamente.
+Este é um projeto simples que permite adicionar nomes a uma lista e realizar um sorteio para definir um "amigo secreto" aleatoriamente. Após o sorteio, a lista de amigos é limpa automaticamente.
 
 ## Funcionalidades
 - Adicionar nomes à lista de amigos.
@@ -13,7 +13,7 @@ Este é um projeto simples em JavaScript que permite adicionar nomes a uma lista
 
 ## Tecnologias Utilizadas
 - HTML
-- CSS (opcional para estilização)
+- CSS 
 - JavaScript
 
 ## Como Usar
